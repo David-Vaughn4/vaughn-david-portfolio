@@ -28,7 +28,7 @@ During this project, I luckily had no major setbacks, but did have to resolder a
 This project reinforced  the soldering skills I had already, but had not used in a while, allowing me to become a more efficent solderer.
 
 ## **GIT note
-For some reason, I have been unable to add anyone else as a collaborator to my personal repository. I went through the settings, ensured it was public, that the email/username were typed correctly, and that my personal email was configured correctly, as well as going through ChatGPT's tips, but nothing seemed to work.
+For some reason, I have been unable to add anyone else as a collaborator to my personal repository. I went through the settings, ensured it was public, that the email/username were typed correctly, and that my personal email was configured correctly, as well as going through ChatGPT's tips, but nothing seemed to work. **Fixed this by just creating a new account with a different email and copying everything into a new repository created on this new account from the old one.
 
 # Capstone Project (Walking Table)
 So far, I have been continuing the project me and Evan Park worked on last year. This year, I have been 3D-printing models to iterate more efficiently and isolate problems more effectively. This is the fusion model that I have been working off of:
