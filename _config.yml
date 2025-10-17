@@ -1,7 +1,6 @@
 title: David Vaughn's Portfolio
 description: Software Engineer & Developer Portfolio
-theme: hacker
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: daattali/beautiful-jekyll
 
 # Site settings
 author:
