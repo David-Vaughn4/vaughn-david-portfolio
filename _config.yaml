@@ -1,0 +1,40 @@
+title: David Vaughn's Portfolio
+description: Software Engineer & Developer Portfolio
+theme: midnight
+
+# Site settings
+author:
+  name: David Vaughn
+  email: vaughnd544@gmail.com
+  github: David-Vaughn4
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom settings
+show_downloads: true
+google_analytics: # Add your Google Analytics tracking ID here
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
+
+# Social links
+social:
+  github: David-Vaughn4
+  linkedin: # Add your LinkedIn username
+  twitter: # Add your Twitter handle
+
+# Theme customization
+colors:
+  primary: "#1e90ff"
+  secondary: "#4169e1"
+  background: "#0d1117"
+  text: "#ffffff"
