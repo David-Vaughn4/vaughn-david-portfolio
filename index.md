@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # David Vaughn Digital Porfolio
 
 This is David Vaughn's Digital Portfolio. I am collaborating on the [Walking Table Project]()
