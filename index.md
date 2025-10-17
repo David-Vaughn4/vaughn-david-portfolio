@@ -16,8 +16,9 @@ This is David Vaughn's digital portfolio. I am collaborating with Evan Park on t
 ## Soldering Project
 Over the course of a few days in class, I soldered the touch sensitive LED Owl soldering kit. This project included both surface mount soldering for a microchip and through-hole soldering for various electrical components including transistors, capacitors, and LEDs. Below are some progress photos for this project.
 
-<img src="/Images/Soldering_progress1.jpg" width="500" alt="Soldering Progress 1">
-![](../David-Vaughn/Images/Soldering_progress2.jpg)
+![Soldering_progress1](https://github.com/user-attachments/assets/089c8977-e903-43ea-a0f2-e99695aeac76)
+![Soldering_progress2](https://github.com/user-attachments/assets/31b57019-55fe-4264-aa76-755ddc6cae49)
+
 
 During this project, I luckily had no major setbacks, but did have to resolder a few of the LEDs after first testing it. This was due to a cold solder on one and solder bridges on a few others. Below is the project lit up in its three stages. These were fixed fairly easily though, and overall the project was very successful.
 
