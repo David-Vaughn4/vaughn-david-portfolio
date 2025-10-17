@@ -15,7 +15,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-
+  
 # Custom settings
 show_downloads: true
 google_analytics: # Add your Google Analytics tracking ID here
@@ -32,9 +32,30 @@ social:
   linkedin: # Add your LinkedIn username
   twitter: # Add your Twitter handle
 
-# Theme customization
-colors:
-  primary: "#1e90ff"
-  secondary: "#4169e1"
-  background: "#0d1117"
-  text: "#ffffff"
+# Theme customization - Beautiful Jekyll specific
+navbar-col: "#123456"
+navbar-text-col: "#FFFFFF"
+navbar-border-col: "#234567"
+page-col: "#1a1a1a"
+text-col: "#FFFFFF"
+link-col: "#4FB1BA"
+hover-col: "#25CCDB"
+footer-col: "#123456"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#4FB1BA"
+
+# Additional Beautiful Jekyll settings
+title-separator: "|"
+round-avatar: true
+social-network-links:
+  github: David-Vaughn4
+  email: vaughnd544@gmail.com
+
+# Excerpt word length
+excerpt_length: 50
+
+# Cover image for social sharing
+share-img: "Images/cover-image.jpg"
+
+# Add a subtitle to your website
+subtitle: "Building Digital Solutions"
