@@ -1,3 +1,5 @@
+# David Vaughn Digital Portfolio
+
 This is David Vaughn's digital documentation. I am collaborating with Evan Park on the [Walking Table Project](https://github.com/evancpark-png/Walking-Table)
 
 
